@@ -1,1 +1,1 @@
-# Calculator-project-for-micro-IT
+# Calculator-project
